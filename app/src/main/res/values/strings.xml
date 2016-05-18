@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fight Gang</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblUserName">User Name</string>
+    <string name="lblPassword">Password</string>
+    <string name="lblAlias">Alias</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnacctack">Attack!</string>
+    <string name="lblswitch">Enter the Arena      </string>
+    <string name="btnsend">Send</string>
+</resources>
